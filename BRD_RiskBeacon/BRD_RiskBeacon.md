@@ -23,14 +23,15 @@ Stakeholder :
 | Management Koperasi | Monitoring NPL dan performa kredit       |
 
 
-Business Requirement : 
+Business Requirements :
 
-|ID | Requirement | Priority|
-|BR-01| Sistem harus dapat mengkategorikan tingkat risiko kredit anggota | High|
-|BR-02| Sistem harus menghasilkan rekomendasi limit pinjaman berdasarkan tier risiko | High|
-|BR-03| Sistem harus menampilkan hasil estimasi risiko dalam waktu kurang dari 10 menit | High|
-|BR-04|Sistem harus menyimpan histori hasil penilaian kredit anggota | High|
-|BR-05| Sistem harus menyimpan data nasabah/anggota dengan aman | High|
+| ID | Requirement | Priority |
+|---|---|---|
+| BR-01 | The system must be able to categorize member credit risk levels. | High |
+| BR-02 | The system must generate loan limit recommendations based on risk tiers. | High |
+| BR-03 | The system must display risk estimation results in less than 10 minutes. | High |
+| BR-04 | The system must store member credit assessment history. | High |
+| BR-05 | The system must securely store customer/member data. | High |
 
 Business Rule 
 (Aturan bisnis yang harus dipatuhi) :
