@@ -9,5 +9,5 @@ The underlying prototype and analytical workflow were developed using publicly a
 ## Prototype Interface Preview
 
 ### RiskBeacon homepage
-![RiskBeacon home](assets/rb_home.png)
-![](assets/rb_home_2.png)
+![RiskBeacon home](assets/rb_home.PNG)
+![](assets/rb_home_2.PNG)
